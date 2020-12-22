@@ -1,0 +1,3 @@
+include ':updatelib'
+include ':app'
+rootProject.name = "Updater"
